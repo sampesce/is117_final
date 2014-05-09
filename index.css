@@ -6,6 +6,39 @@ body{
 }
 
 
+.horiz{
+
+	display: inline-block;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 30px;
+	
+
+}
+
+#secondblock h2{
+
+	text-align: center;
+	color: #CCCCCC;
+	font-family: 'Open Sans', sans-serif;
+	padding-top: 40px;
+}
+
+#footer{
+	clear: both;
+	width:100%;
+	height:50px;
+	background-color: #4084F2;
+
+}
+
+#horizcont{
+	text-align: center;
+	font-weight: 600;
+	
+
+}
+
 #header{
 	height: 102px;
 	width: 100%;
@@ -241,6 +274,15 @@ body{
 	margin-right: 30px;
 	display: inline-block;
 	margin-top: 30px;
+
+}
+
+#vline{
+
+	color: #f00;
+    background: #CCCCCC; 
+	width: 2px;
+    height: 100px;
 
 }
 
