@@ -19,7 +19,7 @@ body{
 #secondblock h2{
 
 	text-align: center;
-	color: #CCCCCC;
+	color: #ffb430;
 	font-family: 'Open Sans', sans-serif;
 	padding-top: 40px;
 }
@@ -119,7 +119,7 @@ body{
 	font-size: 13px;
 	font-weight: 600;
 	letter-spacing: 2px;
-	color: #4084F2;
+	color: #CCCCCC;
 
 }
 #topmenu li {
@@ -141,17 +141,18 @@ body{
 
 #topmenu a:link{
 	text-decoration:none;
-	color: #4084F2;
+	color: #CCCCCC;
 }
 
 #topmenu a:visited{
 	text-decoration:none;
-	color: #4084F2;
+	color: #CCCCCC;
 }
 
 #topmenu a:hover{
 
 	text-decoration:underline;
+	color: #ffb430;
 
 }
 
